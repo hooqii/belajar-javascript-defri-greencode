@@ -21,3 +21,4 @@ myNumber+=5
 console.log(myNumber)
 
 
+console.log("abc, ABC".capitalize())
